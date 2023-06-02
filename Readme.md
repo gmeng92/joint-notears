@@ -1,5 +1,7 @@
 This is the code to replicate the analysis in the paper
+
 " Zhang, G., Cai, B., Zhang, A., Tu, Z., Xiao, L., Stephen, J. M., ... & Wang, Y. P. (2022). Detecting abnormal connectivity in schizophrenia via a joint directed acyclic graph estimation model. Neuroimage, 260, 119451. "
+
 https://www.sciencedirect.com/science/article/pii/S1053811922005687
 
 utils_joint.py is the main source file for all functions and tools
